@@ -27,7 +27,7 @@ section, summary, time, mark, audio, video {
 
 body {
 	margin: 0;
-	padding: 65px;
+	padding-top: 65px;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
