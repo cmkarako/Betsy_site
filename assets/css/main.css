@@ -2663,11 +2663,13 @@ input, select, textarea {
 		border-radius: 4px;
 		display: inline-block;
 		position: relative;
+		background: #ffffff;
 	}
 
 		.image img {
 			display: block;
 			border-radius: 4px;
+			background: #FFF5FC;
 		}
 
 		.image.left, .image.right {
