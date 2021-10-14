@@ -23,7 +23,10 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	color: #695401;
+}
+
 
 body {
 	margin: 0;
@@ -42,8 +45,12 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
+ol {
 	list-style: none;
+}
+
+ul {
+	list-style-image: url('pink2.png');
 }
 
 blockquote, q {
@@ -194,6 +201,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		color: #695401;
 	}
 
 		p.major {
@@ -205,36 +213,44 @@ input, select, textarea {
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
+		color: #695401;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			/*color: inherit;*/
 			text-decoration: none;
+			color: #695401;
 		}
 
 	h1 {
 		font-size: 3.5rem;
 		line-height: 1.2;
+		color: #695401;
 	}
 
 	h2 {
 		font-size: 2.25rem;
+		color: #695401;
 	}
 
 	h3 {
 		font-size: 1.5rem;
+		color: #695401;
 	}
 
 	h4 {
 		font-size: 1.1rem;
+		color: #695401;
 	}
 
 	h5 {
 		font-size: 0.9rem;
+		color: #695401;
 	}
 
 	h6 {
 		font-size: 0.7rem;
+		color: #695401;
 	}
 
 	sub {
@@ -308,18 +324,22 @@ input, select, textarea {
 
 		h1 {
 			font-size: 2.5rem;
+			color: #695401;
 		}
 
 		h2 {
 			font-size: 2rem;
+			color: #695401;
 		}
 
 		h3 {
 			font-size: 1.25rem;
+			color: #695401;
 		}
 
 		h4 {
 			font-size: 1rem;
+			color: #695401;
 		}
 
 	}
@@ -341,7 +361,8 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		/*color: #000000;*/
+		color: #695401;
 	}
 
 	blockquote {
@@ -2197,7 +2218,8 @@ input, select, textarea {
 	.button {
 		background-color: transparent;
 		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: #000000 !important;
+		/*color: #000000 !important;*/
+		color: #695401 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2702,7 +2724,8 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
+		/*list-style: disc;*/
+		list-style-image: url('pink2.png');
 		margin: 0 0 2rem 0;
 		padding-left: 1rem;
 	}
@@ -2909,28 +2932,34 @@ input, select, textarea {
 		position: relative;
 		margin: -0.65rem 0 1.5rem 0;
 		font-style: italic;
+		color: #695401;
 	}
 
 	header h1 + p {
 		font-size: 1.375rem;
+		color: #695401;
 	}
 
 	header h2 + p {
 		font-size: 1.25rem;
+		color: #695401;
 	}
 
 	header h3 + p {
 		font-size: 1.1rem;
+		color: #695401;
 	}
 
 	header h4 + p,
 	header h5 + p,
 	header h6 + p {
 		font-size: 0.9rem;
+		color: #695401;
 	}
 
 	header p {
-		color: rgba(0, 0, 0, 0.75);
+		/*color: rgba(0, 0, 0, 0.75);*/
+		color: #695401;
 	}
 
 /* Table */
@@ -6422,7 +6451,8 @@ input, select, textarea {
 		.gallery.style1 .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px white;
-			color: #ffffff !important;
+			/*color: #ffffff !important;*/
+			color: #695401 !important;
 		}
 
 			.gallery.style1 input[type="submit"]:hover,
@@ -6431,7 +6461,8 @@ input, select, textarea {
 			.gallery.style1 button:hover,
 			.gallery.style1 .button:hover {
 				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				/*color: #47D3E5 !important;*/
+				color: #695401 !important;
 			}
 
 			.gallery.style1 input[type="submit"]:active,
@@ -6441,7 +6472,8 @@ input, select, textarea {
 			.gallery.style1 .button:active {
 				background-color: rgba(71, 211, 229, 0.2);
 				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				/*color: #47D3E5 !important;*/
+				color: #695401 !important;
 			}
 
 			.gallery.style1 input[type="submit"].primary,
@@ -6451,7 +6483,8 @@ input, select, textarea {
 			.gallery.style1 .button.primary {
 				background-color: #ffffff;
 				box-shadow: none;
-				color: #000000 !important;
+				/*color: #000000 !important;*/
+				color: #695401 !important;
 			}
 
 				.gallery.style1 input[type="submit"].primary:hover,
@@ -6775,7 +6808,8 @@ input, select, textarea {
 			.gallery.style2 .button.primary {
 				background-color: #ffffff;
 				box-shadow: none;
-				color: #000000 !important;
+				/*color: #000000 !important;*/
+				color: #695401 !important;
 			}
 
 				.gallery.style2 input[type="submit"].primary:hover,
@@ -8342,7 +8376,8 @@ input, select, textarea {
 				#wrapper > .invert .button.primary {
 					background-color: #ffffff;
 					box-shadow: none;
-					color: #000000 !important;
+					/*color: #000000 !important;*/
+					color: #695401 !important;
 				}
 
 					#wrapper > .invert input[type="submit"].primary:hover,
@@ -8456,7 +8491,8 @@ input, select, textarea {
 			}
 
 			#wrapper > .invert header p {
-				color: #ffffff;
+				/*color: #ffffff;*/
+				color: #695401;
 			}
 
 			#wrapper > .invert table tbody tr {
