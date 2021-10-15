@@ -223,27 +223,21 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 3.7rem;
+		font-size: 4.5rem;
 		line-height: 1.2;
 		color: #695401;
-		font-family: 'Ephesis', cursive;
-		font-family: 'Montserrat', sans-serif;
-		font-family: 'Sacramento', cursive;
+		font-family: 'Tangerine', cursive;
 	}
 
 	h2 {
 		font-size: 2.5rem;
 		color: #695401;
-		font-family: 'Ephesis', cursive;
-		font-family: 'Montserrat', sans-serif;
 		font-family: 'Sacramento', cursive;
 	}
 
 	h3 {
 		font-size: 3.5rem;
 		color: #695401;
-		font-family: 'Ephesis', cursive;
-		font-family: 'Montserrat', sans-serif;
 		font-family: 'Sacramento', cursive;
 	}
 
