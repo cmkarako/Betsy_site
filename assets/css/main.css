@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
-@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Italianno&display=swap');
 
 
 /*
@@ -225,10 +225,11 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 4.5rem;
+		font-size: 3.2rem;
 		line-height: 1.2;
 		color: #695401;
-		font-family: 'Italianno', cursive;
+		font-family: 'Dancing Script', cursive;
+		letter-spacing: .02em;
 	}
 
 	h2 {
