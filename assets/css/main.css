@@ -234,15 +234,14 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 2.5rem;
-		color: #695401;
-		font-family: 'Sacramento', cursive;
-	}
-
-	h3 {
 		font-size: 3.5rem;
 		color: #695401;
-		font-family: 'Sacramento', cursive;
+		font-family: 'Dancing Script', cursive;	}
+
+	h3 {
+		font-size: 2.5rem;
+		color: #695401;
+		font-family: 'Dancing Script', cursive;
 	}
 
 	h4 {
