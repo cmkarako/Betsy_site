@@ -2730,7 +2730,7 @@ input, select, textarea {
 	}
 
 		ol li {
-			padding-left: 0.25rem;
+			padding-left: 0.0rem;
 			padding-right: 0.25rem;
 		}
 
@@ -2742,7 +2742,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.5rem;
+			padding-left: 0.0rem;
 		}
 
 		ul.alt {
