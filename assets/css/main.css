@@ -203,8 +203,10 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		margin: 0 0 0rem 0;
 		color: #695401;
+		padding: 0 5rem 0 5rem;
+		text-align: center;
 	}
 
 		p.major {
