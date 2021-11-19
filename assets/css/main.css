@@ -2730,6 +2730,7 @@ input, select, textarea {
 	}
 
 		ol li {
+
 			padding-left: 0.0rem;
 			padding-right: 0.25rem;
 		}
@@ -2738,7 +2739,8 @@ input, select, textarea {
 		/*list-style: disc;*/
 		list-style-image: url('pink2.png');
 		margin: 0 0 2rem 0;
-		padding-left: 1rem;
+		padding-left: 0rem;
+		list-style-position: inside;
 	}
 
 		ul li {
